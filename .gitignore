@@ -133,4 +133,4 @@ api_keys.py
 
 #adding additional files to ignore
 API_practice.ipynb
-random_numbers.ipyb
+random_numbers.ipynb
