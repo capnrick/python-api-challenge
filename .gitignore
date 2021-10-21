@@ -131,6 +131,6 @@ dmypy.json
 # Adding config.py file.
 api_keys.py
 
-#adding additional files to ignore
-API_practice.ipynb
-random_numbers.ipynb
+
+#adding open weather api_key files to gitignore
+OW_api_key.py
